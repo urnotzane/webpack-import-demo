@@ -1,0 +1,1 @@
+export default print = () => console.log('I\'m print.js.')
